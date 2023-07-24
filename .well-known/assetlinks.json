@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.dsi.caciv",
+    "sha256_cert_fingerprints":
+    ["09:47:D3:47:C3:5C:EB:FB:8B:FA:7F:9F:D2:E9:6C:C3:4E:2C:8D:AA:80:95:8F:20:D4:03:10:02:36:66:53:D4"]
+  }
+}]
